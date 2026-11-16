@@ -10,12 +10,6 @@ new notifications to your backend while you work.
 
 ---
 
-## Getting started
-
-See [implementation.md](./implementation.md) for prerequisites and step-by-step
-instructions to start PostgreSQL, the alert simulator, backend, and frontend.
-
----
 
 ## What to build
 
