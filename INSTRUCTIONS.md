@@ -77,6 +77,10 @@ export VITE_API_PROXY_TARGET="http://localhost:8081"
 npm run dev
 ```
 
+## Screenshots
+
+Application screenshots are included under backend/resources/static
+
 ## Stop the applications
 
 Press `Ctrl+C` in each application terminal. To stop PostgreSQL while keeping
